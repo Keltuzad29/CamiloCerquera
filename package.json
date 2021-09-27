@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://keltuzad29.github.io/Portfolio/",
+  "homepage": "https://keltuzad29.github.io/CamiloCerquera/",
   "dependencies": {
     "@brainhubeu/react-carousel": "^2.0.4",
     "@testing-library/jest-dom": "^5.14.1",
