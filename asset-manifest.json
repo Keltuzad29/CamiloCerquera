@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Camilo_Cerquera/static/css/main.56adcbf0.chunk.css",
-    "main.js": "/Camilo_Cerquera/static/js/main.6a3040a6.chunk.js",
-    "main.js.map": "/Camilo_Cerquera/static/js/main.6a3040a6.chunk.js.map",
-    "runtime-main.js": "/Camilo_Cerquera/static/js/runtime-main.09e7f31c.js",
-    "runtime-main.js.map": "/Camilo_Cerquera/static/js/runtime-main.09e7f31c.js.map",
-    "static/js/2.80c6caee.chunk.js": "/Camilo_Cerquera/static/js/2.80c6caee.chunk.js",
-    "static/js/2.80c6caee.chunk.js.map": "/Camilo_Cerquera/static/js/2.80c6caee.chunk.js.map",
-    "index.html": "/Camilo_Cerquera/index.html",
-    "static/css/main.56adcbf0.chunk.css.map": "/Camilo_Cerquera/static/css/main.56adcbf0.chunk.css.map",
-    "static/js/2.80c6caee.chunk.js.LICENSE.txt": "/Camilo_Cerquera/static/js/2.80c6caee.chunk.js.LICENSE.txt",
-    "static/media/coverVideo.7d1ea6a9.mp4": "/Camilo_Cerquera/static/media/coverVideo.7d1ea6a9.mp4",
-    "static/media/cv.c988377e.png": "/Camilo_Cerquera/static/media/cv.c988377e.png",
-    "static/media/fondo.26310fdc.jpg": "/Camilo_Cerquera/static/media/fondo.26310fdc.jpg",
-    "static/media/logoCC.b089ae4d.png": "/Camilo_Cerquera/static/media/logoCC.b089ae4d.png"
+    "main.css": "/CamiloCerquera/static/css/main.56adcbf0.chunk.css",
+    "main.js": "/CamiloCerquera/static/js/main.6a3040a6.chunk.js",
+    "main.js.map": "/CamiloCerquera/static/js/main.6a3040a6.chunk.js.map",
+    "runtime-main.js": "/CamiloCerquera/static/js/runtime-main.126d52e5.js",
+    "runtime-main.js.map": "/CamiloCerquera/static/js/runtime-main.126d52e5.js.map",
+    "static/js/2.80c6caee.chunk.js": "/CamiloCerquera/static/js/2.80c6caee.chunk.js",
+    "static/js/2.80c6caee.chunk.js.map": "/CamiloCerquera/static/js/2.80c6caee.chunk.js.map",
+    "index.html": "/CamiloCerquera/index.html",
+    "static/css/main.56adcbf0.chunk.css.map": "/CamiloCerquera/static/css/main.56adcbf0.chunk.css.map",
+    "static/js/2.80c6caee.chunk.js.LICENSE.txt": "/CamiloCerquera/static/js/2.80c6caee.chunk.js.LICENSE.txt",
+    "static/media/coverVideo.7d1ea6a9.mp4": "/CamiloCerquera/static/media/coverVideo.7d1ea6a9.mp4",
+    "static/media/cv.c988377e.png": "/CamiloCerquera/static/media/cv.c988377e.png",
+    "static/media/fondo.26310fdc.jpg": "/CamiloCerquera/static/media/fondo.26310fdc.jpg",
+    "static/media/logoCC.b089ae4d.png": "/CamiloCerquera/static/media/logoCC.b089ae4d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.09e7f31c.js",
+    "static/js/runtime-main.126d52e5.js",
     "static/js/2.80c6caee.chunk.js",
     "static/css/main.56adcbf0.chunk.css",
     "static/js/main.6a3040a6.chunk.js"
