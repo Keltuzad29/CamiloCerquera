@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CamiloCerquera/static/css/main.56adcbf0.chunk.css",
-    "main.js": "/CamiloCerquera/static/js/main.6a3040a6.chunk.js",
-    "main.js.map": "/CamiloCerquera/static/js/main.6a3040a6.chunk.js.map",
+    "main.js": "/CamiloCerquera/static/js/main.444a0a6c.chunk.js",
+    "main.js.map": "/CamiloCerquera/static/js/main.444a0a6c.chunk.js.map",
     "runtime-main.js": "/CamiloCerquera/static/js/runtime-main.126d52e5.js",
     "runtime-main.js.map": "/CamiloCerquera/static/js/runtime-main.126d52e5.js.map",
     "static/js/2.80c6caee.chunk.js": "/CamiloCerquera/static/js/2.80c6caee.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.126d52e5.js",
     "static/js/2.80c6caee.chunk.js",
     "static/css/main.56adcbf0.chunk.css",
-    "static/js/main.6a3040a6.chunk.js"
+    "static/js/main.444a0a6c.chunk.js"
   ]
 }
