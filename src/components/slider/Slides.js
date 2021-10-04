@@ -33,7 +33,7 @@ const slidesInfo = [
     title: "Video App Movies.mp4",
   },
   {
-    id: 3,
+    id: 4,
     video:
       "https://player.vimeo.com/video/616124838?h=5f1b5aca1b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
     linkYoutube:
@@ -41,6 +41,16 @@ const slidesInfo = [
     alt: "Proyecto 4",
     desc: "Fundamentos de Angular",
     title: "FundamentosAngular.mp4",
+  },
+  {
+    id: 5,
+    video:
+      "https://player.vimeo.com/video/622444387?h=f3d9a88813&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+    linkYoutube:
+      "https://afl0r3s.github.io/Proyecto-Grupal-Henry-client/#/",
+    alt: "Proyecto 5",
+    desc: "Proyecto Ecommerce",
+    title: "Proyecto Ecommerce.mp4",
   },
 ];
 
